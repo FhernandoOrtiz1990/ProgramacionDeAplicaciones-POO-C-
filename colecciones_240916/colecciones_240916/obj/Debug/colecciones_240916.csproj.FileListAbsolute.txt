@@ -1,0 +1,9 @@
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\bin\Debug\colecciones_240916.exe.config
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\obj\Debug\colecciones_240916.csprojResolveAssemblyReference.cache
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\obj\Debug\colecciones_240916.frm_colecciones.resources
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\obj\Debug\colecciones_240916.Properties.Resources.resources
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\obj\Debug\colecciones_240916.csproj.GenerateResource.Cache
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\bin\Debug\colecciones_240916.exe
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\bin\Debug\colecciones_240916.pdb
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\obj\Debug\colecciones_240916.exe
+c:\users\pc-19\documents\visual studio 2015\Projects\colecciones_240916\colecciones_240916\obj\Debug\colecciones_240916.pdb
